@@ -14,9 +14,9 @@ Una aplicación desarrollada por la programadora Xochitl y su ayudante el Solori
 Xochitl Solorio
 </author>
 
-<icon src="C:/Users/FIMaz/Desktop/app2 xochitl y solorio/phonegap.png" gap:density="ldpi" gap:platform="android" />
-<icon src="C:/Users/FIMaz/Desktop/app2 xochitl y solorio/phonegap.png" gap:density="mdpi" gap:platform="android" />
-<icon src="C:/Users/FIMaz/Desktop/app2 xochitl y solorio/phonegap.png" gap:density="hdpi" gap:platform="android" />
-<icon src="C:/Users/FIMaz/Desktop/app2 xochitl y solorio/phonegap.png" gap:density="xhdpi" gap:platform="android" />
+<icon src="phonegap.png" gap:density="ldpi" gap:platform="android" />
+<icon src="phonegap.png" gap:density="mdpi" gap:platform="android" />
+<icon src="phonegap.png" gap:density="hdpi" gap:platform="android" />
+<icon src="phonegap.png" gap:density="xhdpi" gap:platform="android" />
 
 </widget>
