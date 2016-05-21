@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns = "http://www.w3.org/ns/widgets"
-    xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.phonegap.pg2016"
-    version   = "1.0.0">
-
-<name>PhoneGap-Solorio</name>
-
-<description>
-Una aplicación desarrollada por la programadora Xochitl y su ayudante el Solorio
-</description>
-
-<author href="https://example.com" email="you@example.com">
-Isaías Solorio
-</author>
-
-<icon src="phonegap.png" gap:density="ldpi" gap:platform="android" />
-<icon src="phonegap.png" gap:density="mdpi" gap:platform="android" />
-<icon src="phonegap.png" gap:density="hdpi" gap:platform="android" />
-<icon src="phonegap.png" gap:density="xhdpi" gap:platform="android" />
-
-</widget>
+    <?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.pg2016"
+        version   = "1.0.0">
+    
+    <name>PhoneGap-Solorio</name>
+    
+    <description>
+    Una aplicación desarrollada por la programadora Xochitl y su ayudante el Solorio
+    </description>
+    
+    <author href="https://example.com" email="you@example.com">
+    Isaías Solorio
+    </author>
+    
+    <icon src="phonegap.png" gap:density="ldpi" gap:platform="android" />
+    <icon src="phonegap.png" gap:density="mdpi" gap:platform="android" />
+    <icon src="phonegap.png" gap:density="hdpi" gap:platform="android" />
+    <icon src="phonegap.png" gap:density="xhdpi" gap:platform="android" />
+    
+    </widget>
